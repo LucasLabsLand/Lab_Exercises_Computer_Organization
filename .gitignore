@@ -4,3 +4,9 @@ release/
 # iv Files
 *.swp
 
+# latex auxiliary files
+*.aux
+*.log
+*.out
+*.pdf
+*.synctex.gz
